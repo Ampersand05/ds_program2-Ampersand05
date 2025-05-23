@@ -1,5 +1,7 @@
 Program #2
 
+Spell checker program using binary search trees to store the dictionary and book being spell checked
+
 Name: Anderson Murray
 
 COSC 2030
